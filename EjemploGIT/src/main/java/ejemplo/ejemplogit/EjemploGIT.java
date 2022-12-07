@@ -12,6 +12,6 @@ package ejemplo.ejemplogit;
 public class EjemploGIT {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Mi programa Asier González Gutiérrez");
     }
 }
