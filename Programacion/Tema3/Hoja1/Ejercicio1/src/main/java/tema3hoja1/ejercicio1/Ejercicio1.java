@@ -1,0 +1,26 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
+ */
+
+package tema3hoja1.ejercicio1;
+
+/**
+ *
+ * @author Asier
+ */
+public class Ejercicio1 {
+
+    public static void main(String[] args) {
+        Calculo c= new Calculo();
+        c.metodo1();
+        c.metodo2();
+        c.metodo3();
+        c.metodo4();
+        c.metodo5();
+        c.metodo6();
+        c.metodo7();
+        c.metodo8();
+        c.metodo9();
+    }
+}
